@@ -19,11 +19,12 @@ The console will show any errors in your sketch.
 
 ## Assets
 
-| File                           | Source                                                                                                                                                                                    |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `assets/images/background.png` | Jenga image from: https://jsushigrill.com/menu/                                                                                                                                           |
-| `assets/images/character.png`  | sushi image from: https://www.vecteezy.com/png/68086263-delicious-salmon-maki-sushi-roll-with-avocado-fresh-japanese-cuisine-isolated-culinary-delights-asian-food-transparent-background |
+| File                               | Source                                                                                                                                                                                    |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `assets/images/background.png` [1] | Jenga image from: https://jsushigrill.com/menu/                                                                                                                                           |
+| `assets/images/character.png` [2]  | sushi image from: https://www.vecteezy.com/png/68086263-delicious-salmon-maki-sushi-roll-with-avocado-fresh-japanese-cuisine-isolated-culinary-delights-asian-food-transparent-background |
 
 ## References
 
-N/A
+[1] JS Sushi Grill Menu. n.d. JS Sushi Grill Menu. Retrieved May 27, 2026.
+[2] Vecteezy Salmon Maki Sushi Roll PNG. n.d. Delicious Salmon Maki Sushi Roll with Avocado Fresh Japanese Cuisine Isolated Culinary Delights Asian Food Transparent Background. Retrieved May 27, 2026.
